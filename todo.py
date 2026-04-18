@@ -1,3 +1,7 @@
 # TODO 1.cursor 中使用git
 # TODO 2.git tag
 # TODO 3.本地不同分支中是否看到的内容不同
+# TODO 4.git action
+# TODO 5.git worktree
+# TODO 6.冲突解决
+# TODO 7.Gitee
