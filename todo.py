@@ -1,7 +1,3 @@
-# TODO 1.从远程仓库拉取代码
-# jgijio
-# koggp
-
-# jgjdigijdj
-print("我早已麻痹！！！")
-thank you very much!
+# TODO 1.cursor 中使用git
+# TODO 2.git tag
+# TODO 3.本地不同分支中是否看到的内容不同
